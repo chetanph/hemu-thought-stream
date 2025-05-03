@@ -3,7 +3,7 @@ date = '2025-05-02T20:38:10-05:00'
 title = 'चोकटीतील राजा'
 +++
 
-{{<audio src="/audio/chuakatil-raja.wav">}}
+{{<audio src="audio/chuakatil-raja.wav">}}
 
 ---
 

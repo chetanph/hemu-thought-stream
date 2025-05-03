@@ -3,7 +3,7 @@ date = '2025-05-02T21:34:40-05:00'
 title = 'घरटं आणि घर'
 +++
 
-{{<audio src="audio/gharata-ani-ghar.wav">}}
+{{<audio src="/audio/gharata-ani-ghar.wav">}}
 
 ---
 

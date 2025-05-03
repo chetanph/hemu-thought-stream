@@ -20,7 +20,7 @@
         <guid>http://localhost:1313/posts/gharata-ani-ghar/</guid>
         <description>काहीतरी आणि बरंच काही - हेमू http://localhost:1313/posts/gharata-ani-ghar/ -
 &lt;audio controls preload=&#34;auto&#34;&gt;
-  &lt;source src=&#34;audio/gharata-ani-ghar.wav&#34; type=&#34;audio/wav&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/audio/gharata-ani-ghar.wav&#34; type=&#34;audio/wav&#34;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
 
@@ -63,7 +63,7 @@
         <guid>http://localhost:1313/posts/balish-q-praudh-q/</guid>
         <description>काहीतरी आणि बरंच काही - हेमू http://localhost:1313/posts/balish-q-praudh-q/ -
 &lt;audio controls preload=&#34;auto&#34;&gt;
-  &lt;source src=&#34;audio/balish-q-praudh-q.wav&#34; type=&#34;audio/wav&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/audio/balish-q-praudh-q.wav&#34; type=&#34;audio/wav&#34;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
 
@@ -110,7 +110,7 @@
         <guid>http://localhost:1313/posts/chuakatil-raja/</guid>
         <description>काहीतरी आणि बरंच काही - हेमू http://localhost:1313/posts/chuakatil-raja/ -
 &lt;audio controls preload=&#34;auto&#34;&gt;
-  &lt;source src=&#34;audio/chuakatil-raja.wav&#34; type=&#34;audio/wav&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/audio/chuakatil-raja.wav&#34; type=&#34;audio/wav&#34;&gt;
   Your browser does not support the audio element.
 &lt;/audio&gt;
 

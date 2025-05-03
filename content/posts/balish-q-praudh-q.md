@@ -3,7 +3,7 @@ date = '2025-05-02T21:23:24-05:00'
 title = 'बालिश प्रश्न आणि प्रौढ प्रश्न'
 +++
 
-{{<audio src="audio/balish-q-praudh-q.wav">}}
+{{<audio src="/audio/balish-q-praudh-q.wav">}}
 
 ---
 

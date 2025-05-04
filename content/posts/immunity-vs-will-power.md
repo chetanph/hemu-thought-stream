@@ -2,7 +2,6 @@
 date: '2025-05-04T15:35:25-05:00'
 title: 'रोगप्रतिकारक प्रणाली आणि इच्छाशक्ती'
 featured_image: 'images/immunity-vs-will-power.png'
-draft: true
 ---
 
 {{<audio src="audio/immunity-vs-will-power.wav">}}

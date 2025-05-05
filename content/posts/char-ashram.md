@@ -1,7 +1,7 @@
 ---
 date: '2025-05-04T14:19:29-05:00'
 title: 'आयुष्याचे चार आश्रम आणि पाण्याचा प्रवास'
-featured_image: 'images/char-ashram.png'
+featured_image: 'images/char-ashram.jpg'
 ---
 
 {{<audio src="audio/char-ashram.wav">}}

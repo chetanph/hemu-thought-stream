@@ -1,7 +1,7 @@
 ---
 date: '2025-05-04T16:52:21-05:00'
 title: 'आत्मनिर्भर'
-featured_image: 'images/self-sufficient.png'
+featured_image: 'images/self-sufficient.jpg'
 ---
 
 {{<audio src="audio/self-sufficient.wav">}}

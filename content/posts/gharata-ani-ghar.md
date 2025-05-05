@@ -1,7 +1,7 @@
 ---
 date: '2025-05-02T21:34:40-05:00'
 title: 'घरटं आणि घर'
-featured_image: "images/gharata-ani-ghar.png"
+featured_image: "images/gharata-ani-ghar.jpg"
 ---
 
 {{<audio src="audio/gharata-ani-ghar.wav">}}

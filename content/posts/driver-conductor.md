@@ -1,7 +1,7 @@
 ---
 date: '2025-05-04T17:12:07-05:00'
 title: 'चालक/वाहक'
-featured_image: 'images/driver-conductor.png'
+featured_image: 'images/driver-conductor.jpg'
 ---
 
 {{<audio src="audio/driver-conductor.wav">}}

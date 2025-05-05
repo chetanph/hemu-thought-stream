@@ -1,7 +1,7 @@
 ---
 date: '2025-05-02T20:38:10-05:00'
 title: 'चोकटीतील राजा'
-featured_image: "images/chuakatil-raja.png"
+featured_image: "images/chuakatil-raja.jpg"
 ---
 
 {{<audio src="audio/chuakatil-raja.wav">}}

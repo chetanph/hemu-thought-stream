@@ -1,7 +1,7 @@
 ---
 date: '2025-05-04T14:33:30-05:00'
 title: 'रामायण: हे असंच घडलं असेल का?'
-featured_image: 'images/ramayan.png'
+featured_image: 'images/ramayan.jpg'
 ---
 
 {{<audio src="audio/ramayan.wav">}}

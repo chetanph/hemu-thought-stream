@@ -1,7 +1,7 @@
 ---
 date: '2025-05-03T17:40:23-05:00'
 title: 'आत्मीयता कि औपचारिकता'
-featured_image: "images/birthday.png"
+featured_image: "images/birthday.jpg"
 ---
 
 {{<audio src="audio/birthday.wav">}}

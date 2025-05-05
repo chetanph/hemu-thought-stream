@@ -1,7 +1,7 @@
 ---
 date: '2025-05-04T19:00:00-05:00'
 title: 'सारथी'
-featured_image: 'images/sarathi.png'
+featured_image: 'images/sarathi.jpg'
 ---
 
 {{<audio src="audio/sarathi.wav">}}

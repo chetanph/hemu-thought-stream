@@ -1,7 +1,7 @@
 ---
 date: '2025-05-04T18:29:13-05:00'
 title: 'वटपोर्णिमा'
-featured_image: 'images/vatapornima.png'
+featured_image: 'images/vatapornima.jpg'
 ---
 
 {{<audio src="audio/vatapornima.wav">}}

@@ -1,7 +1,7 @@
 ---
 date: '2025-05-04T18:55:27-05:00'
 title: 'काय मोहमाया आणि काय सत्त्य?'
-featured_image: 'images/mohamaya.png'
+featured_image: 'images/mohamaya.jpg'
 ---
 
 {{<audio src="audio/mohamaya.wav">}}

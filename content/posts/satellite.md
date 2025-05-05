@@ -1,7 +1,7 @@
 ---
 date: '2025-05-04T15:22:29-05:00'
 title: 'आकाश यान आणि मोक्ष यान'
-featured_image: 'images/satellite.png'
+featured_image: 'images/satellite.jpg'
 ---
 
 {{<audio src="audio/satellite.wav">}}

@@ -1,7 +1,7 @@
 ---
 date: '2025-05-04T19:30:34-05:00'
 title: 'श्रद्धा'
-featured_image: 'images/shraddha.png'
+featured_image: 'images/shraddha.jpg'
 ---
 
 {{<audio src="audio/shraddha.wav">}}
